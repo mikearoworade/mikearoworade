@@ -1,4 +1,5 @@
 # Michael Aroworade
+Email: [Ayoaro85@gmail.com](mailto:michael@example.com) | LinkedIn: [Michael Aroworade](www.linkedin.com/in/michael-aroworade-60411b145)
 ## Software Engineer
 
 <!-- ![Profile Image](https://drive.google.com/drive/folders/17mIESmaGaY-XlqmSyyWPVrCQrR7mOr70) -->
