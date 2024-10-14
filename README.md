@@ -20,11 +20,11 @@ An application to track and manage IT assets within an organization, built using
 
 ## Experience
 ### Software Engineer | Jubailibros Engineering, Lagos
-*2021
--Designed, developed, tested, and maintained software applications using .NET framework.
-• Utilized Entity Framework for database operations and optimizations.
-• Developed RESTful APIs and integrated with frontend applications using ASP.NET Web API.
-• Assisted in troubleshooting and resolving complex technical issues in production environments.
+*2021 - Present*
+- Designed, developed, tested, and maintained software applications using .NET framework.
+- Utilized Entity Framework for database operations and optimizations.
+- Developed RESTful APIs and integrated with frontend applications using ASP.NET Web API.
+- Assisted in troubleshooting and resolving complex technical issues in production environments.
 
 ### IT Engineer | Jubailibros Engineering, Lagos
 *2021 - 2022*
