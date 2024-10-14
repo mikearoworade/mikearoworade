@@ -1,7 +1,7 @@
 # Michael Aroworade
 ## Software Engineer
 
-![Profile Image](https://drive.google.com/drive/folders/17mIESmaGaY-XlqmSyyWPVrCQrR7mOr70)
+<!-- ![Profile Image](https://drive.google.com/drive/folders/17mIESmaGaY-XlqmSyyWPVrCQrR7mOr70) -->
 
 I’m passionate about technology and its rapid evolution. I thrive on leveraging innovative solutions to solve complex problems.
 
