@@ -40,6 +40,9 @@ ALX Software Engineering (2023 - 2024)
 
 ### B.Eng. Electrical and Electronics Engineering
 University of Lagos, Nigeria (2013 - 2019)
+
+
+⭐️ From [Michael Aroworade](https://github.com/Mikearoworade)
 <!--
 **mikearoworade/mikearoworade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
