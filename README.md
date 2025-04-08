@@ -7,17 +7,10 @@ Email: [Ayoaro85@gmail.com](mailto:michael@example.com) | LinkedIn: [Michael Aro
 I’m passionate about technology and its rapid evolution. I thrive on leveraging innovative solutions to solve complex problems.
 
 ## Skills
-- **Languages**: Python, JavaScript, C, C#
+- **Languages**: Python, JavaScript, C, C#, PHP
 - **Frameworks**: React, Node.js, .NET, Flask
-- **Database**: MySQL, PostgreSQL, MongoDB, Entity Framework
-- **Tools & IDEs**: Git, Docker, Jekins, Visual Studio, IntelliJ, VS Code
+- **Database**: MySQL, PostgreSQL, MongoDB
 
-## Projects
-### [Project 1: Employee Management System]()
-A robust Employee Management System built using .Net Framework, with features for leave requests, financial assistance tracking, and more.
-
-### [Project 2: IT Asset Tracker]()
-An application to track and manage IT assets within an organization, built using React and Node.js.
 
 ## Experience
 ### Software Engineer | Jubailibros Engineering, Lagos
