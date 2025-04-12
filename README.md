@@ -4,35 +4,11 @@ Email: [Ayoaro85@gmail.com](mailto:michael@example.com) | LinkedIn: [Michael Aro
 
 <!-- ![Profile Image](https://drive.google.com/drive/folders/17mIESmaGaY-XlqmSyyWPVrCQrR7mOr70) -->
 
-I’m passionate about technology and its rapid evolution. I thrive on leveraging innovative solutions to solve complex problems.
-
 ## Skills
 - **Languages**: Python, JavaScript, C, C#, PHP
 - **Frameworks**: React, Node.js, .NET, Flask
 - **Database**: MySQL, PostgreSQL, MongoDB
 
-
-## Experience
-### Software Engineer | Jubailibros Engineering, Lagos
-*2022 - Present*
-- Designed, developed, tested, and maintained software applications using .NET framework.
-- Utilized Entity Framework for database operations and optimizations.
-- Developed RESTful APIs and integrated with frontend applications using ASP.NET Web API.
-- Assisted in troubleshooting and resolving complex technical issues in production environments.
-
-### IT Engineer | Jubailibros Engineering, Lagos
-*2021 - 2022*
-- Oversee and maintain company IT infrastructure.
-- Develop internal applications for better resource management.
-- Provide technical support for over 100 employees.
-
-## Education
-
-### Software Engineering
-ALX Software Engineering (2023 - 2024)
-
-### B.Eng. Electrical and Electronics Engineering
-University of Lagos, Nigeria (2013 - 2019)
 
 
 ⭐️ From [Michael Aroworade](https://github.com/Mikearoworade)
